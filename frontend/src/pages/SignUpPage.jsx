@@ -99,6 +99,9 @@ const SignUpPage = () => {
                     <Eye className="size-5 text-base-content/40" />
                   )}
                 </button>
+                </div>
+                </div>
+
                 <button type="submit" className="btn btn-primary w-full" disabled={isSigningUp}>
               {isSigningUp ? (
                 <>
@@ -109,8 +112,7 @@ const SignUpPage = () => {
                 "Create Account"
               )}
             </button>
-
-
+          </form>
           <div className="text-center">
             <p className="text-base-content/60">
               Already have an account?{" "}
@@ -119,9 +121,7 @@ const SignUpPage = () => {
               </Link>
             </p>
           </div>
-              </div>
-            </div>
-          </form>
+             
         </div>
       </div>
     </div>

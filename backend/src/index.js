@@ -10,7 +10,7 @@ import { connectDB } from "./lib/db.js";
 
 import cookieParser from "cookie-parser";
 
-import {cors} from "cors"
+import cors from "cors"; 
 
 
 dotenv.config()

@@ -26,7 +26,7 @@ const SettingsPage = () => {
             onClick={toggleTheme}
             className="group flex flex-col items-center gap-1.5 p-3 rounded-lg transition-colors hover:bg-base-200/50 bg-base-200"
           >
-           
+
             <span className="flex items-center gap-1 text-sm font-medium">
               {theme === "light" ? (
                 <>

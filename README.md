@@ -22,9 +22,9 @@ A real-time chat application with authentication, messaging, and responsive UI.
 Make sure you have the following installed:
 
 - **Node.js** (v14+ recommended)  
-- **npm** or **yarn**  
-- **MongoDB** (local or cloud instance)  
-- **Cloudinary account** (for image/media uploads, optional)  
+- **npm** 
+- **MongoDB** (cloud instance)  
+- **Cloudinary account** (for image/media uploads)  
 
 ---
 

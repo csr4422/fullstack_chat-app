@@ -16,9 +16,6 @@ const SettingsPage = () => {
       <div className="space-y-6">
         <div className="flex flex-col gap-1">
           <h2 className="text-lg font-semibold">Theme</h2>
-          <p className="text-sm text-base-content/70">
-            Toggle between light and dark mode for your chat interface
-          </p>
         </div>
 
         <div className="flex">
@@ -26,7 +23,6 @@ const SettingsPage = () => {
             onClick={toggleTheme}
             className="group flex flex-col items-center gap-1.5 p-3 rounded-lg transition-colors hover:bg-base-200/50 bg-base-200"
           >
-
             <span className="flex items-center gap-1 text-sm font-medium">
               {theme === "light" ? (
                 <>

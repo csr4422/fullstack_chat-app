@@ -1,4 +1,4 @@
-# Fullstack Chat App
+# Sync-D
 
 A real-time chat application with authentication, messaging, and responsive UI.  
 

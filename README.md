@@ -4,6 +4,9 @@ A real-time chat application with authentication, messaging, and responsive UI.
 
 ![Chat App Demo](./backend/src/assets/demo.gif)
 
+### use this email and pass 
+- john.doe@gmail.com
+- 123456
 ---
 
 ## Features
